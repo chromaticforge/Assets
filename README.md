@@ -1,9 +1,6 @@
 ## Assets
-Assets used by Chromatic.
-
-## TODO
-Create a tool to create new assets programmatically.
+Assets designed by Chromatic, for Chromatic.
 
 ---
 
-##### Icons from [Lucide](https://lucide.dev/license)
+Assets licensed under [CC BY-SA 4.0](LICENSE)
